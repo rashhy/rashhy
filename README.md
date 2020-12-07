@@ -34,6 +34,13 @@
 
         |🔰|Me apasionan las motos y los coches BMW
 
+#                                   *MEU AMOR*
+
+*MINHA NAMORADA*:
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/784945382736134165/785395830328262666/ce5d57bd-571b-48ea-a7fd-d7d59a13875a.gif" />
+
+
+
      
 ###  *Languages and Tools:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
