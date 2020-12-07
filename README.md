@@ -35,6 +35,8 @@
         |🔰|Me apasionan las motos y los coches BMW
 
      
+###  *Languages and Tools:*
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ### *Spotify Playing 🎧*
 
