@@ -34,11 +34,6 @@
 
         |🔰|Me apasionan las motos y los coches BMW
 
-#                                   *MEU AMOR*
-
-*MINHA NAMORADA*:
-<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/784945382736134165/785395830328262666/ce5d57bd-571b-48ea-a7fd-d7d59a13875a.gif" />
-
 
 
      
