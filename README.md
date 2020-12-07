@@ -55,3 +55,7 @@
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 
 </p>
+
+
+<h3 align="center">Linguagens e ferramentas</h3>
+<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></p>
