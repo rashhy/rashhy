@@ -20,7 +20,7 @@
 
 <p align="center">Olá, sou Rashh. Sou mineiro. Fui morar no Chile, mas estou de volta ao Brasil e estou morando novamente em Minas Gerais, tenho 16 anos e sou um grande fã de programação e estou estudando sobre. </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashhy&color=1E00FF" alt="rashh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashh&color=060606" alt="rashh" /> </p>
 
 #                                                                   *BIO* 
 
@@ -50,12 +50,11 @@
 
 **Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.**
 
-<h3 align="center">Connect with me</h3>
-
+<h3 align="center">Conecte-se comigo</h3>
 <p align="center">
-
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-
+<a href="https://twitter.com/@Rashh47" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://twitch.tv/rashh" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
 
