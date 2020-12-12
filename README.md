@@ -18,21 +18,21 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784794074531364894/785040894578786304/e605bff4647a133f17044335c7fbdd02.gif" />
 
-<p align="center">hola soy Rashh Soy de Minas Gerais que me fui a vivir a Chile, pero ya estoy de regreso en Brasil, y estoy viviendo nuevamente en Minas Gerais, tengo 16 años y soy un gran fanático de la programación y estoy estudiando sobre eso.</p>
+<p align="center">Olá, sou Rashh. Sou mineiro. Fui morar no Chile, mas estou de volta ao Brasil e estou morando novamente em Minas Gerais, tenho 16 anos e sou um grande fã de programação e estou estudando sobre. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashhy&color=1E00FF" alt="rashh" /> </p>
 
-#                                                                   *INFORMACIÓN SOBRE MÍ* 
+#                                                                   *BIO* 
 
-        |🔰|Soy estudiante de programación y pentest
+        |🔰|sou estudante de programação
 
-        |🔰|tengo 16 años
+        |🔰|tenho 16 anos
 
-        |🔰|un dia quiero volver a chile 
+        |🔰|sou meio sociopata
 
-        |🔰|Trabajo en la granja de mi familia
+        |🔰|nao sou de muitas amizades mais se quiser so chamar no discord 
 
-        |🔰|Me apasionan las motos y los coches BMW
+        |🔰|trabalho com minha família 
 
 
 
@@ -48,7 +48,7 @@
 
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/784794074531364894/785042896575266826/Anime_12.gif" />
 
-**no hay cielo ni infierno esperándonos, porque nosotros mismos hacemos nuestro cielo e infierno, nuestro destino ya está establecido, solo vivimos la vida un día a la vez.**
+**Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.**
 
 <h3 align="center">Connect with me</h3>
 
@@ -60,4 +60,8 @@
 
 
 <h3 align="center">Linguagens e ferramentas</h3>
-<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></p>
+<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></p>
