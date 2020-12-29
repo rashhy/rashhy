@@ -14,7 +14,7 @@
 
 
 
-#                                                                     *RASHH - BLACK PASS*                               
+#                                                                     *RASHH - XLVII*                               
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784794074531364894/785040894578786304/e605bff4647a133f17044335c7fbdd02.gif" />
 
@@ -53,7 +53,7 @@
 <h3 align="center">Conecte-se comigo</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/@Rashh47" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://twitter.com/@Rxshh47" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
 <a href="https://twitch.tv/rashh" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
