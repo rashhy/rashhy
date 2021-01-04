@@ -14,7 +14,9 @@
 
 
 
-#                                                                     *RASHH - XLVII*                               
+#                                                                     *RASHH - XLVII* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795764596086407188/brasil_flag.gif" width="40" height="30" />                              
+
+
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784794074531364894/785040894578786304/e605bff4647a133f17044335c7fbdd02.gif" />
 
@@ -40,7 +42,7 @@
 ###  *Languages e Ferramentas:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-### *Spotify Playing 🎧*
+### *Spotify Playing* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795766383367422002/musicatopUA.gif" width="30" height="30" />
 
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q?si=sctTCqEwTD6PcF0FkwtRwQ)
 
