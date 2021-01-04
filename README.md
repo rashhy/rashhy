@@ -13,7 +13,6 @@
 
 
 
-
 #                                                                     *RASHH - XLVII* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795764596086407188/brasil_flag.gif" width="40" height="30" />                              
 
 
@@ -48,13 +47,12 @@
 
 #
 
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/794213378583166977/795773640867840040/b9c38c0086b0cf54682e952bc4c269e6.gif" />
+<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/794213378583166977/795773640867840040/b9c38c0086b0cf54682e952bc4c269e6.gif" height="400" width="800" />
 
 <p align="center"> Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.  </p>
 
-#                         *Conecte-se comigo*
 
-
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/@Rxshh47" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
