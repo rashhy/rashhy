@@ -50,7 +50,7 @@
 
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/794213378583166977/795773640867840040/b9c38c0086b0cf54682e952bc4c269e6.gif" />
 
-<p align="center" Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.  />
+<p align="center"> Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.  </p>
 
 #                         *Conecte-se comigo*
 
