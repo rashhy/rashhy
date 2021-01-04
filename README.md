@@ -52,7 +52,9 @@
 
 **Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.**
 
-<h3 align="center">Conecte-se comigo</h3>
+#                         *Conecte-se comigo*
+
+
 <p align="center">
 <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 <a href="https://twitter.com/@Rxshh47" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
