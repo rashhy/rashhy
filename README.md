@@ -10,7 +10,7 @@
 
 
 
-<img src="https://media.discordapp.net/attachments/793453573534122074/793836685347651584/Japa.gif" height="80px" width="80px"/>
+<img src="https://cdn.discordapp.com/attachments/756887281465557032/795822165974712340/emoji_2.gif" height="80px" width="80px"/>
 
 
 #                                                                     *RASHH - XLVII* <img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795764596086407188/brasil_flag.gif" width="40" height="30" />                              
