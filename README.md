@@ -35,11 +35,19 @@
 
 
 
-     
 ###  *Languages e Ferramentas:*
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+#                                                                    *Languages and Status*
 
+ <details style='text-align: center;' align='center'>
+  <summary> Click Here! </summary>
+  <p style="text-align: center;"align="center">============================================================</p>
+  <p style="text-align: center;"align="center"><p style="text-align: center;"align="center"><a href="https://github.com/rashhy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rashhy&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="rashhy stats" /></a></p>
+  <p style="text-align: center;"align="center"><a href="https://github.com/rashhy?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashhy&layout=compact&show_icons=true&theme=tokyonight" /></a></p>
+  <p style="text-align: center;"align="center">============================================================</p>
+</details>
+     
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/648627798281551875/1036791800544886825/7145161b5e16f3bc5533a036e39a5d48.jpg" />
 
